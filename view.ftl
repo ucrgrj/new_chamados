@@ -11,7 +11,7 @@
             <div class="gridMenu">
             <font color="white">
             <b>
-               <button id="idBtnRelatorios" type="button" class="btnMenu">Meus Chamados 2</button>
+               <button id="idBtnRelatorios" type="button" class="btnMenu">Meus Chamados</button>
                <button id="idBtnAbrirChamado" type="button" class="btnMenu">Abrir Chamado</button>
                <button id="idBtnAreaTecnica" type="button" class="btnMenu">Área Técnica</button>
                <!-- <button id="idBtnLista" type="button" class="btnMenu">Minha lista</button> -->
